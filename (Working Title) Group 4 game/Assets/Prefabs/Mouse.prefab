@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7431584183128582973}
   - component: {fileID: 5804455911775102104}
   - component: {fileID: 8604521452354768978}
+  - component: {fileID: 3692302380742036418}
   m_Layer: 0
   m_Name: Mouse
   m_TagString: Untagged
@@ -27,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 7811945298929529223}
   serializedVersion: 2
   m_LocalRotation: {x: -0.030407438, y: -0.7064527, z: -0.7064527, w: 0.030407438}
-  m_LocalPosition: {x: -6.685, y: 0.505, z: -3.121}
+  m_LocalPosition: {x: -6.685, y: 0.503, z: -3.121}
   m_LocalScale: {x: 0.14318652, y: 0.14318652, z: 0.14318652}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -83,3 +84,25 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3692302380742036418
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7811945298929529223}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 973877516759717424, guid: ba3e9a348928e3c46a59c59c05efccb0, type: 3}
