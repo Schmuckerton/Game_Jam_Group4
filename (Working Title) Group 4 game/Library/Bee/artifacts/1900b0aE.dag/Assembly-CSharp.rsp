@@ -362,6 +362,7 @@
 "Assets/Scrips/pause_Menu_Midgame.cs"
 "Assets/Scrips/PlayerMovement_Code.cs"
 "Assets/Scrips/Timer3.cs"
+"Assets/Scrips/WinGame.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
