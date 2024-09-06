@@ -1,0 +1,20 @@
+{
+
+"Instructions Readme": "1) Open Chrome or Edge, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+"processInfo": {
+    
+},
+
+"traceEvents":[
+{ "pid": 54052, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "Unity" } },
+{ "pid": 54052, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-100" } },
+{ "pid": 54052, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 54052, "tid": 1, "ts": 1725583228681181, "dur": 5412958, "ph": "X", "name": "Build player", "args": {} },
+{ "pid": 54052, "tid": 1, "ts": 1725583228682772, "dur": 31333, "ph": "X", "name": "Preprocess Player", "args": {} },
+{ "pid": 54052, "tid": 1, "ts": 1725583234095830, "dur": 579, "ph": "X", "name": "ChromeTraceHeader", "args": {} },
+{ "pid": 54052, "tid": 1, "ts": 1725583234098927, "dur": 653, "ph": "X", "name": "", "args": {} },
+{ "pid": 54052, "tid": 1, "ts": 1725583234097947, "dur": 2577, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{}
+
+]
+}
